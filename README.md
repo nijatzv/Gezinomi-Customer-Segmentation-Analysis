@@ -17,7 +17,7 @@ Gezinomi seeks to enhance its revenue estimation model by segmenting customers i
 
 <h2>Data Set</h2>
 <p>
-The dataset, <code>gezinomi_miuul.xlsx</code>, records each transaction in detail, capturing all sales information for a given booking. Since the dataset includes multiple purchases per customer, it allows for a comprehensive view of recurring behaviors and spending patterns.
+The dataset, <code>gezinomi.xlsx</code>, records each transaction in detail, capturing all sales information for a given booking. Since the dataset includes multiple purchases per customer, it allows for a comprehensive view of recurring behaviors and spending patterns.
 </p>
 
 <h3>Key Variables</h3>
